@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VarificationButton</name>
+   <tag></tag>
+   <elementGuidId>b20550a4-064c-46ea-b1c0-120f4fe51d0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@fxlayout='row']/s4-launchbutton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@fxlayout='row']/s4-launchbutton</value>
+      <webElementGuid>ac2cad9c-27de-4a04-8007-96f932cd73bd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

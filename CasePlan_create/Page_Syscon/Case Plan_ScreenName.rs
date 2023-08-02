@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Case Plan_ScreenName</name>
+   <tag></tag>
+   <elementGuidId>956703e2-ead2-419a-b209-3a389ec447f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-tooltip-trigger.s4-tooltip-host</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='casePlanHeader']/div[2]/div/div/s4-tooltip/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec3f1276-45b8-46d4-9bcd-b63ae8cf921b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger s4-tooltip-host</value>
+      <webElementGuid>5c125c14-be2d-4c8a-9a45-5e54ed96d1dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-8</value>
+      <webElementGuid>eff56258-75df-4dfe-8a3d-e511c2dd188d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cdk-describedby-host</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>8deb31bd-ab12-415c-941e-b1ce41dd0068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Case Plan </value>
+      <webElementGuid>d8cdf9d5-d104-4086-a8d3-70afd4abab11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s4MainBody&quot;)/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container s4-sidenav-container main-menu-open mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/perfect-scrollbar[1]/div[@class=&quot;ps ps--active-y&quot;]/div[@class=&quot;ps-content&quot;]/main[1]/app-ocdiplan[@class=&quot;ng-star-inserted&quot;]/s4-pane[@id=&quot;casePlanHeader&quot;]/div[@class=&quot;s4-pane-inner&quot;]/div[@id=&quot;casePlanHeader&quot;]/div[@class=&quot;pane-header work-flow-mat-icon ng-star-inserted&quot;]/div[1]/div[1]/s4-tooltip[1]/div[@class=&quot;mat-tooltip-trigger s4-tooltip-host&quot;]</value>
+      <webElementGuid>cc16c03f-68b7-4593-83b5-f9c878c4f4e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='casePlanHeader']/div[2]/div/div/s4-tooltip/div</value>
+      <webElementGuid>ca7ceda4-2015-48f5-90b7-37f63f93e10b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ind'])[2]/following::div[4]</value>
+      <webElementGuid>0a99dcbd-f8e7-4bd8-817d-e97273f5bc90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrated Case Plan'])[1]/preceding::div[11]</value>
+      <webElementGuid>37f36c59-c99c-4328-b6ad-2b86f040cd25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//s4-tooltip/div</value>
+      <webElementGuid>5e5b1b6e-7c51-411b-a14e-140c073a10d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Case Plan ' or . = ' Case Plan ')]</value>
+      <webElementGuid>a6744e09-bc8c-4a1f-ae52-937bca41d9f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

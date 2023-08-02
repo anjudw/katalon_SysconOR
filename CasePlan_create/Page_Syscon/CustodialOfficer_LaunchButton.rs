@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CustodialOfficer_LaunchButton</name>
+   <tag></tag>
+   <elementGuidId>c5b0a0e6-2b0e-4e20-8799-ffd2b7d3e33d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.launch.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Verified'])[1]/following::span[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f68d95af-3491-4ba6-a9ac-0eb777115306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>launch ng-star-inserted</value>
+      <webElementGuid>83bd230b-de72-4865-baea-896963fef64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-2&quot;)/div[@class=&quot;mat-expansion-panel-body ng-tns-c182-29&quot;]/div[@class=&quot;ng-tns-c182-29&quot;]/div[1]/s4-grid[1]/div[@id=&quot;gridContainer&quot;]/ag-grid-angular[@id=&quot;caspln&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-auto-height ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-auto-height ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-auto-height&quot;]/div[@class=&quot;ag-body-viewport ag-layout-auto-height ag-row-animation&quot;]/div[@class=&quot;ag-center-cols-clipper&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row-even ag-row ag-row-level-0 middle ag-row-position-absolute ag-row-first ag-row-last ag-row-selected ag-row-focus ag-row-hover&quot;]/div[@class=&quot;ag-cell-value ag-cell ag-cell-not-inline-editing ag-cell-normal-height hyperlinkCellOfhref&quot;]/grid-cell-render-hyperlink[@class=&quot;ng-star-inserted&quot;]/s4-hyperlink[@class=&quot;launch ng-star-inserted&quot;]/a[@class=&quot;grid-hyperlink ng-star-inserted&quot;]/span[@class=&quot;launch ng-star-inserted&quot;]</value>
+      <webElementGuid>627f9ad8-8a8c-42ce-bda1-8a4d76b8b980</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ag-grid-angular[@id='caspln']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div[4]/grid-cell-render-hyperlink/s4-hyperlink/a/span</value>
+      <webElementGuid>55dcd823-8a55-4a40-a60f-6ceea12179f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobart Reception Prison'])[1]/following::span[1]</value>
+      <webElementGuid>8db2639b-4e64-48be-aea6-17fa3aaadba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verified'])[1]/following::span[10]</value>
+      <webElementGuid>830abce9-62c8-4b59-8814-0c9e05a768dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to'])[2]/preceding::span[11]</value>
+      <webElementGuid>4c28ee3c-8420-4af3-8b73-424036e85454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[3]/preceding::span[13]</value>
+      <webElementGuid>35aade26-af6e-4a31-84e3-e057d36e5d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//grid-cell-render-hyperlink/s4-hyperlink/a/span</value>
+      <webElementGuid>63188812-e2f2-40e2-9f51-648ba1c2e7ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

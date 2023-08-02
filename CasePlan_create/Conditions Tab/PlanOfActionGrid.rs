@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PlanOfActionGrid</name>
+   <tag></tag>
+   <elementGuidId>6abbcba1-bd47-4a45-aeae-449bd70c95c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='OFF_ACTION_PLANS_V2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='OFF_ACTION_PLANS_V2']</value>
+      <webElementGuid>9a498fc0-beb1-47fc-9418-b74c2818d444</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

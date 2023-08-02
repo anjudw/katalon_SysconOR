@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Assigned Case plan staff</name>
+   <tag></tag>
+   <elementGuidId>02324c09-4aea-4157-9b7b-9664481742a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.court-btn.controls-btn.add-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[7]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[3]/div[2]/div/mat-dialog-container/ocdiplaccomponent/s4-dialog-card/s4-dialog-card-content/mat-dialog-content/s4-panel/div/div/div/mat-expansion-panel/div/div/div[2]/div/s4-grid/div/div[2]/div/div[1]/div/div[1]/button[@class=&quot;court-btn controls-btn add-btn&quot;][count(. | //*[@type = 'button' and (text() = '   ' or . = '   ')]) = count(//*[@type = 'button' and (text() = '   ' or . = '   ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1fdc30ce-34da-4a61-9dbb-9f2a665c09a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>deead258-7cf4-4ffb-bb5d-7c9ed0342bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>court-btn controls-btn add-btn</value>
+      <webElementGuid>09a74b77-29f5-4357-8088-2a72d030a9c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   </value>
+      <webElementGuid>f7fd0b4c-7085-4aa5-81a1-f35995266085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[3]/div[2]/div/mat-dialog-container/ocdiplaccomponent/s4-dialog-card/s4-dialog-card-content/mat-dialog-content/s4-panel/div/div/div/mat-expansion-panel/div/div/div[2]/div/s4-grid/div/div[2]/div/div[1]/div/div[1]/button[@class=&quot;court-btn controls-btn add-btn&quot;]</value>
+      <webElementGuid>6563c8a8-3295-4505-8af8-032c354e35f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[7]</value>
+      <webElementGuid>5710274d-0ab0-4aa7-a477-b9af10d6198c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='gridContainer']/div[2]/div/div/div/div/button)[23]</value>
+      <webElementGuid>a722874c-93e4-4abb-b279-5625a5db1d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[10]/following::button[1]</value>
+      <webElementGuid>72551412-0ad0-4bfd-97c3-06f8f73a9d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[5]/following::button[1]</value>
+      <webElementGuid>8f9885d6-0365-436e-bf9f-ab4a51a3118d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows per page'])[5]/preceding::button[2]</value>
+      <webElementGuid>d2e72dd9-3226-4058-8da8-63fbb45adf16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-dialog-content/s4-panel/div/div/div/mat-expansion-panel/div/div/div[2]/div/s4-grid/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>848235d8-2041-48e0-a2c1-fc84819009c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '   ' or . = '   ')]</value>
+      <webElementGuid>8daf72f8-0703-4f8c-b060-3c0cfc6f73ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

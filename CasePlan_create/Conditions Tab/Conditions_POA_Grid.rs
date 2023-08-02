@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Conditions_POA_Grid</name>
+   <tag></tag>
+   <elementGuidId>1937f96e-1db3-45c7-9c2d-990b64bdbb0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//s4-grid[@id='offActionPlnV2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//s4-grid[@id='offActionPlnV2']</value>
+      <webElementGuid>38383fb3-98b0-4126-bc52-08187bd326f5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
