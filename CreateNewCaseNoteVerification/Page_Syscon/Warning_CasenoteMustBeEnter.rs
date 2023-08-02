@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Warning_CasenoteMustBeEnter</name>
+   <tag></tag>
+   <elementGuidId>24d23413-5521-478f-aec2-290582fbd30e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-29']/snack-bar-container/div/div/div/div[2]/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>01494aec-a02d-4bfb-8226-6774531c2716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Case Notes must be entered.</value>
+      <webElementGuid>00ab56e1-d70b-4ba5-bf91-7598f469d204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-29&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c79-175 ng-trigger ng-trigger-state message-class-warn mat-snack-bar-top ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c79-175&quot;]/div[@class=&quot;ng-tns-c79-175&quot;]/div[@class=&quot;toastContainer ng-star-inserted&quot;]/div[2]/div[1]/div[2]/p[1]</value>
+      <webElementGuid>83c584d0-ead2-4097-a9ef-0d56e99d75fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-29']/snack-bar-container/div/div/div/div[2]/div/div[2]/p</value>
+      <webElementGuid>e742055b-282e-47b5-bfea-345d1532b80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning!'])[1]/following::p[1]</value>
+      <webElementGuid>bd4bc1bd-6297-4742-a3c8-b81a556305fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document'])[1]/following::p[1]</value>
+      <webElementGuid>ac4f408b-8247-4d9f-9fa7-d421edf674be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Case Notes must be entered.']/parent::*</value>
+      <webElementGuid>75088fb4-fd8b-4357-bcdc-aff343460201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>acbee1f3-d004-45d2-ba40-a3d6c333de46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Case Notes must be entered.' or . = 'Case Notes must be entered.')]</value>
+      <webElementGuid>ebccca24-6cf1-4a9d-955a-c3ffdd2ac271</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

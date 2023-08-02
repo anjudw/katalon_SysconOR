@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save button</name>
+   <tag></tag>
+   <elementGuidId>4dd46070-ba88-4dfb-8bc2-e90d2cd7b2bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.court-btn.controls-btn.save-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95dba8ae-66c0-4ed7-a853-8269f228aefd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0f29b2bc-ca76-4a43-b73d-6d43d1657b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>court-btn controls-btn save-btn</value>
+      <webElementGuid>63ef31c5-81be-44ce-af09-77004f8f6092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   </value>
+      <webElementGuid>f4930f05-6422-49d8-81a4-e65f0841cb90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-11&quot;)/div[@class=&quot;mat-expansion-panel-body ng-tns-c182-130&quot;]/div[@class=&quot;ng-tns-c182-130&quot;]/div[1]/s4-grid[@id=&quot;offnotestab&quot;]/div[@id=&quot;gridContainer&quot;]/div[2]/div[@class=&quot;pagination--div&quot;]/div[1]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;court-btn controls-btn save-btn&quot;]</value>
+      <webElementGuid>65a9fcea-50d8-4c65-b51b-2c3f84591d3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>e18845ac-7e2c-4fc5-a7d0-219b971a961f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gridContainer']/div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>d56e5f0f-1145-4db5-aae9-60cab5a9bbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[4]/following::button[2]</value>
+      <webElementGuid>ede0f6af-aba6-4b98-9fd0-7bbd37eda602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page'])[2]/following::button[2]</value>
+      <webElementGuid>bd872e4f-1125-4e88-84c1-f082d890fc71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows per page'])[2]/preceding::button[2]</value>
+      <webElementGuid>23d79760-5ef8-4fbc-9bd3-deb2ad9ee2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/button</value>
+      <webElementGuid>0e4e83e9-ab0d-4164-b1ea-4bd25d2fe5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '   ' or . = '   ')]</value>
+      <webElementGuid>96738599-339b-4856-879e-07103c4cac2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

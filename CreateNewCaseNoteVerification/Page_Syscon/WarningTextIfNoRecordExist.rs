@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WarningTextIfNoRecordExist</name>
+   <tag></tag>
+   <elementGuidId>e011a94f-dd09-4272-9cc8-0822cbe95de4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-4']/snack-bar-container/div/div/div/div[2]/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c6d0a3ae-8aec-4dc7-9b6a-b4ac0e7d7ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Query caused no records to be retrieved.</value>
+      <webElementGuid>e702787b-576e-4634-9905-0c11e0a45035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c79-91 ng-trigger ng-trigger-state message-class-warn mat-snack-bar-top ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c79-91&quot;]/div[@class=&quot;ng-tns-c79-91&quot;]/div[@class=&quot;toastContainer ng-star-inserted&quot;]/div[2]/div[1]/div[2]/p[1]</value>
+      <webElementGuid>87dbdaa7-ae2c-472c-b7a7-3007c6d84055</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-4']/snack-bar-container/div/div/div/div[2]/div/div[2]/p</value>
+      <webElementGuid>35f1ad08-023a-482d-ab6f-1411ce3ef810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning!'])[1]/following::p[1]</value>
+      <webElementGuid>321fa506-34f0-429e-a86e-c6048874542d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document'])[1]/following::p[1]</value>
+      <webElementGuid>4117c694-26ce-45da-a0be-ff1298e036c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Query caused no records to be retrieved.']/parent::*</value>
+      <webElementGuid>4f05814f-1e74-4d92-b66d-bec6f81c2a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>9f68052d-c3b8-4270-9680-782d4f10721c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Query caused no records to be retrieved.' or . = 'Query caused no records to be retrieved.')]</value>
+      <webElementGuid>cb1888e1-c9ab-48e7-9b13-cd01aeb36f26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

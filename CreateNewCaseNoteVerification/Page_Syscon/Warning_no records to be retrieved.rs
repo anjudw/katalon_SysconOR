@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Warning_no records to be retrieved</name>
+   <tag></tag>
+   <elementGuidId>991737ff-c38f-40ec-a1de-2c48106fdbd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>snack-bar-container.mat-snack-bar-container.ng-tns-c79-152.ng-trigger.ng-trigger-state.message-class-warn.mat-snack-bar-top.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-6']/snack-bar-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>snack-bar-container</value>
+      <webElementGuid>a6c1c0f4-98b8-46a3-9e7e-d5526446646b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-snack-bar-container ng-tns-c79-152 ng-trigger ng-trigger-state message-class-warn mat-snack-bar-top ng-star-inserted</value>
+      <webElementGuid>c9cc6dba-6a5c-4c08-a8ea-06a8a222e66c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>warningWarning!closeQuery caused no records to be retrieved.</value>
+      <webElementGuid>539d37d1-83b6-47d4-8572-b7deb5863c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-6&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c79-152 ng-trigger ng-trigger-state message-class-warn mat-snack-bar-top ng-star-inserted&quot;]</value>
+      <webElementGuid>9f935aab-14de-4bed-a83b-e44f16bd1849</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-6']/snack-bar-container</value>
+      <webElementGuid>25e59d5f-ef63-4339-8c76-444a223607d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document'])[1]/following::snack-bar-container[1]</value>
+      <webElementGuid>53a35574-0dab-436e-b676-8ae541186fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Property Items'])[1]/following::snack-bar-container[1]</value>
+      <webElementGuid>b7363973-fdee-437f-9cc5-20d2e7087d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//snack-bar-container</value>
+      <webElementGuid>a4f7e1dc-eb95-442e-8b17-d3fd1af04819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//snack-bar-container[(text() = 'warningWarning!closeQuery caused no records to be retrieved.' or . = 'warningWarning!closeQuery caused no records to be retrieved.')]</value>
+      <webElementGuid>ff0822f9-1fa1-4dbd-abd3-4a6daff867ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

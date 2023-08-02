@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CaseNoteScreenName</name>
+   <tag></tag>
+   <elementGuidId>7c288ac4-e9db-4a32-a15c-4ff1adaf4e60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-tooltip-trigger.s4-tooltip-host</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='s4MainBody']/app-root/app-home/mat-sidenav-container/mat-sidenav-content/perfect-scrollbar/div/div/main/app-oidcnote/s4-pane/div/div/div[2]/div/div/s4-tooltip/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>480e826e-0430-4d44-ad43-3283da457621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger s4-tooltip-host</value>
+      <webElementGuid>348a87d7-39c5-45e7-82f2-47949353cd16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-24</value>
+      <webElementGuid>59ec1aa0-766a-403f-8440-9e1ea020f749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cdk-describedby-host</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7fe63c6a-5461-4341-ada3-09cd6083d882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Institution Contact Logs </value>
+      <webElementGuid>b2e97adf-37ef-4300-8fee-01993bb66983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s4MainBody&quot;)/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container s4-sidenav-container main-menu-open mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/perfect-scrollbar[1]/div[@class=&quot;ps ps--active-y&quot;]/div[@class=&quot;ps-content&quot;]/main[1]/app-oidcnote[@class=&quot;ng-star-inserted&quot;]/s4-pane[1]/div[@class=&quot;s4-pane-inner&quot;]/div[@class=&quot;pane-section&quot;]/div[@class=&quot;pane-header work-flow-mat-icon ng-star-inserted&quot;]/div[1]/div[1]/s4-tooltip[1]/div[@class=&quot;mat-tooltip-trigger s4-tooltip-host&quot;]</value>
+      <webElementGuid>78cac7f3-6389-4456-9c78-6201f6814561</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='s4MainBody']/app-root/app-home/mat-sidenav-container/mat-sidenav-content/perfect-scrollbar/div/div/main/app-oidcnote/s4-pane/div/div/div[2]/div/div/s4-tooltip/div</value>
+      <webElementGuid>887f1106-b0a6-4cd5-b944-045e5c2e4195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ind'])[2]/following::div[4]</value>
+      <webElementGuid>0848c3da-a207-4985-9e04-e53f21b8b252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Notes'])[2]/preceding::div[11]</value>
+      <webElementGuid>9ce1b3a6-bae9-4913-8843-cdc55d47b3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From Date'])[1]/preceding::div[13]</value>
+      <webElementGuid>cb249d47-2cec-4a1d-98a8-14c228c0af5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Institution Contact Logs']/parent::*</value>
+      <webElementGuid>a294bc59-42c4-4213-b150-18d92be2b902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//s4-tooltip/div</value>
+      <webElementGuid>0fce03eb-39e3-43a7-ab0e-77e62d37560a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Institution Contact Logs ' or . = ' Institution Contact Logs ')]</value>
+      <webElementGuid>d7476ba5-2f21-414e-bd3c-874d47483384</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
