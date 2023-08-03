@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuCase Managementkeyboard_arrow_down</name>
+   <tag></tag>
+   <elementGuidId>1701ccd9-9390-40d1-b949-7958b2b5fac0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='s4MainBody']/app-root/app-home/mat-sidenav-container/mat-sidenav/div/div/perfect-scrollbar/div/div/dynamic-menu/div/ul/li/ul/li/ul/li[8]/mat-nav-list/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e03667dd-5d45-4cb2-a86b-b3acd8043ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-list-item-content</value>
+      <webElementGuid>e9b1be7f-b614-4cb4-8afc-e6f026add2c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Case Managementkeyboard_arrow_down</value>
+      <webElementGuid>cb5471c3-3ae5-42bd-bbb7-ccdb2e205f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s4MainBody&quot;)/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container s4-sidenav-container mat-drawer-transition main-menu-open&quot;]/mat-sidenav[@class=&quot;mat-drawer mat-sidenav ng-tns-c226-5 ng-trigger ng-trigger-transform mat-drawer-side ng-star-inserted mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c226-5&quot;]/div[@class=&quot;content-container ng-tns-c226-5&quot;]/perfect-scrollbar[1]/div[@class=&quot;ps ps--active-y&quot;]/div[@class=&quot;ps-content&quot;]/dynamic-menu[1]/div[@class=&quot;dynamic-menu&quot;]/ul[@class=&quot;level0 level&quot;]/li[@class=&quot;menu-first-li ng-star-inserted active-link&quot;]/ul[@class=&quot;level1 level ng-star-inserted&quot;]/li[@class=&quot;menu-second-li ng-star-inserted&quot;]/ul[@class=&quot;level2 level ng-star-inserted&quot;]/li[@class=&quot;menu-third-li ng-star-inserted&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base simpleTextLevel ng-star-inserted&quot;]/a[@class=&quot;mat-list-item mat-focus-indicator&quot;]/span[@class=&quot;mat-list-item-content&quot;]</value>
+      <webElementGuid>838d332b-e449-4bcc-89a7-e1f708b903cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='s4MainBody']/app-root/app-home/mat-sidenav-container/mat-sidenav/div/div/perfect-scrollbar/div/div/dynamic-menu/div/ul/li/ul/li/ul/li[8]/mat-nav-list/a/span</value>
+      <webElementGuid>2377542f-d315-4571-a49e-25356b02f227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='housing location history'])[1]/following::span[1]</value>
+      <webElementGuid>171e9994-e4ab-4058-825f-b27f911f0982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internal Location OCUINTLC'])[1]/following::span[5]</value>
+      <webElementGuid>d7bf8efe-8ba7-4d44-8c66-bd4a2ddeaa72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Notes'])[1]/preceding::span[5]</value>
+      <webElementGuid>ad16812b-5fe7-4b29-a8a6-13cc4d1aa84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/ul/li[8]/mat-nav-list/a/span</value>
+      <webElementGuid>f5624a15-31c3-4bc6-b359-51361c827067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Case Managementkeyboard_arrow_down' or . = 'Case Managementkeyboard_arrow_down')]</value>
+      <webElementGuid>518f3f27-a433-4dea-ba19-b465be8ea7e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

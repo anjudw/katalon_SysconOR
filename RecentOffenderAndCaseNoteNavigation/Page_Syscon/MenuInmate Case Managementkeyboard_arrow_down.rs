@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuInmate Case Managementkeyboard_arrow_down</name>
+   <tag></tag>
+   <elementGuidId>009e50f6-6f12-4ac6-94e1-a477088fb454</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.menu-second-li.ng-star-inserted > mat-nav-list.mat-nav-list.mat-list-base.simpleTextLevel.ng-star-inserted > a.mat-list-item.mat-focus-indicator.active-link > span.mat-list-item-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='s4MainBody']/app-root/app-home/mat-sidenav-container/mat-sidenav/div/div/perfect-scrollbar/div/div/dynamic-menu/div/ul/li/ul/li/mat-nav-list/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1a822bdd-ec92-4840-948f-143b03ed9f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-list-item-content</value>
+      <webElementGuid>b88c160c-ff2d-4349-83ef-e75e6dfedb5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inmate Case Managementkeyboard_arrow_down</value>
+      <webElementGuid>5737ffb2-cb01-44b5-a02c-f58aebf81861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s4MainBody&quot;)/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container s4-sidenav-container mat-drawer-transition main-menu-open&quot;]/mat-sidenav[@class=&quot;mat-drawer mat-sidenav ng-tns-c226-5 ng-trigger ng-trigger-transform mat-drawer-side ng-star-inserted mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c226-5&quot;]/div[@class=&quot;content-container ng-tns-c226-5&quot;]/perfect-scrollbar[1]/div[@class=&quot;ps ps--active-y&quot;]/div[@class=&quot;ps-content&quot;]/dynamic-menu[1]/div[@class=&quot;dynamic-menu&quot;]/ul[@class=&quot;level0 level&quot;]/li[@class=&quot;menu-first-li ng-star-inserted active-link&quot;]/ul[@class=&quot;level1 level ng-star-inserted&quot;]/li[@class=&quot;menu-second-li ng-star-inserted&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base simpleTextLevel ng-star-inserted&quot;]/a[@class=&quot;mat-list-item mat-focus-indicator active-link&quot;]/span[@class=&quot;mat-list-item-content&quot;]</value>
+      <webElementGuid>23639b09-0cc2-4331-9a5f-ddfb39a471f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='s4MainBody']/app-root/app-home/mat-sidenav-container/mat-sidenav/div/div/perfect-scrollbar/div/div/dynamic-menu/div/ul/li/ul/li/mat-nav-list/a/span</value>
+      <webElementGuid>7c4b72eb-e0d7-4d55-a95e-0e6685c6b893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_up'])[1]/following::span[1]</value>
+      <webElementGuid>a6b46401-8143-4eff-9cde-19a073403f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modules'])[1]/following::span[1]</value>
+      <webElementGuid>527f6bd2-950a-4cf5-927c-dbfe68e64b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Search'])[1]/preceding::span[5]</value>
+      <webElementGuid>f4b8fecb-d0b1-493b-9ebf-81dd9a06a338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/mat-nav-list/a/span</value>
+      <webElementGuid>504281ed-8482-4948-8273-5fccd5b87178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Inmate Case Managementkeyboard_arrow_down' or . = 'Inmate Case Managementkeyboard_arrow_down')]</value>
+      <webElementGuid>6e6d7a6f-c6fd-4d65-9bc1-df0abeb07ea6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

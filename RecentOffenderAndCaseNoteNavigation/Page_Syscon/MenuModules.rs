@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuModules</name>
+   <tag></tag>
+   <elementGuidId>fabfcd4a-ac7a-4dd4-b8d9-dbf087bc3c67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-line.dynamic-menu-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='s4MainBody']/app-root/app-home/mat-sidenav-container/mat-sidenav/div/div/perfect-scrollbar/div/div/dynamic-menu/div/ul/li/mat-nav-list/a/span/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93fa098a-b21b-4cb0-81e2-daeb64031a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-line dynamic-menu-text</value>
+      <webElementGuid>d792b951-1815-419d-9e0c-a229db2a894d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Modules</value>
+      <webElementGuid>7c989632-18dd-40a9-921f-4b48730fd834</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s4MainBody&quot;)/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container s4-sidenav-container mat-drawer-transition main-menu-open&quot;]/mat-sidenav[@class=&quot;mat-drawer mat-sidenav ng-tns-c226-5 ng-trigger ng-trigger-transform mat-drawer-side ng-star-inserted mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c226-5&quot;]/div[@class=&quot;content-container ng-tns-c226-5&quot;]/perfect-scrollbar[1]/div[@class=&quot;ps ps--active-y&quot;]/div[@class=&quot;ps-content&quot;]/dynamic-menu[1]/div[@class=&quot;dynamic-menu&quot;]/ul[@class=&quot;level0 level&quot;]/li[@class=&quot;menu-first-li ng-star-inserted active-link&quot;]/mat-nav-list[@class=&quot;mat-nav-list mat-list-base simpleTextLevel ng-star-inserted&quot;]/a[@class=&quot;mat-list-item mat-focus-indicator mat-list-item-avatar mat-list-item-with-avatar active-link&quot;]/span[@class=&quot;mat-list-item-content&quot;]/span[@class=&quot;mat-list-text&quot;]/span[@class=&quot;mat-line dynamic-menu-text&quot;]</value>
+      <webElementGuid>4ba72cee-8dab-4da3-a81b-2f89d8da3f54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='s4MainBody']/app-root/app-home/mat-sidenav-container/mat-sidenav/div/div/perfect-scrollbar/div/div/dynamic-menu/div/ul/li/mat-nav-list/a/span/span[2]/span</value>
+      <webElementGuid>f0c6c2fe-4447-48e8-9089-a1bc0bc102f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AD'])[1]/following::span[9]</value>
+      <webElementGuid>77b79cc3-1366-4255-a800-1be36a4df2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOBART RECEPTION PRISON'])[1]/following::span[19]</value>
+      <webElementGuid>ae107015-aba7-4e4a-a887-4976d7519b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_arrow_down'])[1]/preceding::span[1]</value>
+      <webElementGuid>f83efdf9-4920-49ba-8f32-86cac3bb6083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inmate Case Management'])[1]/preceding::span[2]</value>
+      <webElementGuid>3d4ad5b5-c424-448b-985d-ae1f1a1d247e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Modules']/parent::*</value>
+      <webElementGuid>3b5804ed-8199-497a-bfaf-a48ae3d4675d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>785c429c-fa0d-4143-a2ad-3af07ee5748a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Modules' or . = 'Modules')]</value>
+      <webElementGuid>532e655b-ba74-4e00-b2d3-5f74aceda774</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
