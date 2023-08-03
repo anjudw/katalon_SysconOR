@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DOB_Field</name>
+   <tag></tag>
+   <elementGuidId>3f3b9a9f-e202-4d36-9a30-c0b62afff70b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='dateBIRTH_DATE']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='dateBIRTH_DATE']</value>
+      <webElementGuid>05bd91d0-84ff-40a5-8ed2-f23d01978d2f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

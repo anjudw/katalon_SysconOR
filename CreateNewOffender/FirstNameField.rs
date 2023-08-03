@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FirstNameField</name>
+   <tag></tag>
+   <elementGuidId>1a828faa-bbc6-4aba-b4f0-cf23fea32647</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='textfirst_name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='textfirst_name']</value>
+      <webElementGuid>63dc130b-042e-4c07-98fb-173eb034fb2c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

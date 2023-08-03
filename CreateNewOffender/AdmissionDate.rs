@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AdmissionDate</name>
+   <tag></tag>
+   <elementGuidId>ec53faf6-b039-45e3-b6bc-2b3106648894</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='dateADMISSION_DATE']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='dateADMISSION_DATE']</value>
+      <webElementGuid>d24f9f22-1e40-4de5-8707-15887dadcf86</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

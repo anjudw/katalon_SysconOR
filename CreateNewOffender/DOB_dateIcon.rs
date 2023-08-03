@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DOB_dateIcon</name>
+   <tag></tag>
+   <elementGuidId>f39691cf-c0ad-4819-836e-507557ba9fe2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-icon[@svgicon='date-icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//mat-icon[@svgicon='date-icon']</value>
+      <webElementGuid>d981034b-c4c9-4b54-b8e0-47aa1da0cbac</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

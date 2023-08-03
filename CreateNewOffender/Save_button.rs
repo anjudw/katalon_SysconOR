@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save_button</name>
+   <tag></tag>
+   <elementGuidId>55942ef8-9a96-457b-8395-f755960a4bc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='sveoffdr']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='sveoffdr']</value>
+      <webElementGuid>0a8b4e3e-6bc1-4d24-8119-911ffcef2de4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
