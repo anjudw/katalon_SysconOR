@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_User Name</name>
+   <tag></tag>
+   <elementGuidId>2b24b4ac-ecbc-4c86-8f75-4e0d81708451</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c87-2 > #lngtxtfld</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div/input[@id='lngtxtfld']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='lngtxtfld']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div/input[@id='lngtxtfld']</value>
+      <webElementGuid>0cebd392-3eab-474f-b09a-b02a62eb8e7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='lngtxtfld']</value>
+      <webElementGuid>0c149c17-de18-46e8-9f5a-823df428f63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//s4-textbox[@id='lngtxtfld']/mat-form-field/div/div/div/input</value>
+      <webElementGuid>cd0ffd7e-573e-498f-a1f3-0c239d988215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>bdca3833-856a-4b2c-bd9a-916ecc507d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'lngtxtfld']</value>
+      <webElementGuid>64f7ba71-4388-436e-b4be-789f62fd980b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

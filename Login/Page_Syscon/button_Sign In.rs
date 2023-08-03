@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign In</name>
+   <tag></tag>
+   <elementGuidId>0206e58f-db28-4812-bb05-2ab3873b2f87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#lngsngbtn > #lngsngbtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='lngsngbtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>175378cf-bc89-47a5-bb40-0556852256ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-raised-button mat-button-base secondary-grey-btn mat-basic ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>3ffcc6a3-7bfa-473c-ae2c-9c442b573e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lngsngbtn</value>
+      <webElementGuid>380c81bb-73fd-4f09-a50a-90afad1d5f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>dab36407-f572-4fb6-b4b5-31907f0d3986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s4MainBody&quot;)/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;s4-login-page mat-body-1&quot;]/div[@class=&quot;lgnbody&quot;]/div[@class=&quot;lgnbody-inner&quot;]/div[@class=&quot;logindiv&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;signin-btn&quot;]/div[1]/div[2]/s4-button[@id=&quot;lngsngbtn&quot;]/button[@id=&quot;lngsngbtn&quot;]</value>
+      <webElementGuid>696a486e-11aa-47fc-a887-b4b389df66e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='lngsngbtn']</value>
+      <webElementGuid>32eef49e-46c1-468d-baca-37060c656040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//s4-button[@id='lngsngbtn']/button</value>
+      <webElementGuid>94ccdb50-aeaf-4cc1-b75f-00e87a0364be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in using your DOJ account'])[1]/following::button[1]</value>
+      <webElementGuid>23cd56b1-8f71-4ae5-87d9-2a107ee66233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>8f6b69da-23fb-4d7d-be7b-c71ba83b923e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>171167eb-79d6-4db9-a706-ad8b9ac8563a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'lngsngbtn' and (text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>dc4fce32-a0e8-4b83-8d6d-fd4d3b1ffc5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

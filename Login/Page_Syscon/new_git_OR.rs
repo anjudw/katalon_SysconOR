@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>new_git_OR</name>
+   <tag></tag>
+   <elementGuidId>2d58003b-8968-4a99-8271-5e6002b53132</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>530056c5-e2cf-4e7b-86d1-1b2575d187f2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
